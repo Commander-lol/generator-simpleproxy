@@ -1,0 +1,15 @@
+{
+  "name": "SimpleProxy",
+  "version": "0.1.0",
+  "description": "A simple to configure reverse proxy built on top of node-http-proxy",
+  "main": "proxy.js",
+  "dependencies": {
+    "http-proxy": "~1.0.1",
+    "ssl-root-cas": "~1.1.7"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Louis Capitanchik",
+  "license": "MIT"
+}
